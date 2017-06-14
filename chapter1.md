@@ -46,5 +46,5 @@ Email地址设置哪个邮箱，就用哪个邮箱发送命令，即自己向自
 
 ## 程序下载
 
-[![](/assets/email.ico)](/setup/MyEmailPC.zip)
+[![](/assets/email.ico)](https://github.com/CAOJINGYOU/myprograms/raw/master/setup/MyEmailPC.zip)
 
