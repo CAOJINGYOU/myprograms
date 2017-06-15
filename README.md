@@ -8,7 +8,7 @@
 
 ## DaysMatter
 
-[DaysMatter](#daysmatter)
+[DaysMatter](/daysmatter.md)
 
 倒数日
 
