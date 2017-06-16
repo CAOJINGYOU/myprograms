@@ -12,5 +12,5 @@
 
 ## 程序下载
 
-![](/assets/MyPomotodo.ico)
+[![](/assets/MyPomotodo.ico)](https://github.com/CAOJINGYOU/myprograms/raw/master/setup/MyPomotodo.zip)
 
