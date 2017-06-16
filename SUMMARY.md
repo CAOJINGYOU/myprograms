@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [MyEmailPC](chapter1.md)
+* [MyEmailPC](MyEmailPC.md)
 * [DaysMatter](daysmatter.md)
 * [MyPomotodo](mypomotodo.md)
 
