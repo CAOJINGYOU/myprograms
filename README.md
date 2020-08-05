@@ -1,8 +1,16 @@
 # 个人开发的程序
 
+程序文件位置:[setup](./setup/)
+
+## YhcaoWallpaperEngine
+
+[YhcaoWallpaperEngine](/YhcaoWallpaperEngine.md)
+
+多种模式模仿WallpaperEngine壁纸
+
 ## PyWallpaper
 
-[PyWallpaper](/PyWallpaperPyWallpaper.md)
+[PyWallpaper](/PyWallpaper.md)
 
 桌面壁纸
 
