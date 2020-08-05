@@ -1,5 +1,11 @@
 # 个人开发的程序
 
+## PyWallpaper
+
+[PyWallpaper](/PyWallpaperPyWallpaper.md)
+
+桌面壁纸
+
 ## MyEmailPC
 
 [MyEmailPC](/MyEmailPC.md)

@@ -14,3 +14,7 @@
 
 [![](/assets/MyPomotodo.ico)](https://github.com/CAOJINGYOU/myprograms/raw/master/setup/MyPomotodo.zip)
 
+# 开发语言 #
+
+C++,MFC
+
